@@ -2,6 +2,6 @@
 
 
 - 💻 iOS Enginner at [Instacart](https://www.instacart.com/company) 🥕
-- 🌵 Living in Austin, TX
+- 🌵 Living in Texas
 - 🚀 My passions are iOS Development and problem solving
 - 📫 How to reach me: [@siauruk1](https://www.linkedin.com/in/siauruk1) on LinkedIn
