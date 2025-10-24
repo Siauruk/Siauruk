@@ -2,6 +2,6 @@
 
 
 - 💻 Senior iOS Engineer at [Instacart](https://www.instacart.com/company) 🥕
-- 🌵 Living in Texas
+- 🌲 Living in Washington
 - 🚀 My passions are iOS Development and problem solving
 - 📫 How to reach me: [@siauruk1](https://www.linkedin.com/in/siauruk1) on LinkedIn
